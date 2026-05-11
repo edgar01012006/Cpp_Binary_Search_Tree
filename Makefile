@@ -18,7 +18,7 @@ OBJ = $(SRC:.cpp=.o)
 # =========================
 # Target executable
 # =========================
-TARGET = Test
+TARGET = BST
 
 # =========================
 # OS-specific settings
